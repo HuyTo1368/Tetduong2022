@@ -1,0 +1,10 @@
+.m-content {
+    position: absolute;
+    top: 48px;
+    left: 180px;
+    bottom: 0;
+    right: 0;
+    background-color: #F4F5F7;
+    box-sizing: border-box;
+    padding: 12px 12px 12px 12px;
+}
