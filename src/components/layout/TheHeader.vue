@@ -2,7 +2,7 @@
     <div class="m-header">
       <div class="m-header-right">
         <div class="ms-icon m-icon_three-stripes"></div>
-        <div class="m-name-company">Công ty cổ phần MISA</div>
+        <div class="m-name-company">Công ty Một mình tôi</div>
       </div>
       <div class="m-header-left">
           <div class="m-notify"></div>
